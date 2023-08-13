@@ -1,0 +1,47 @@
+[Error404] 2023-08-13 09:33:12 ---------------------------------------------------------
+Uri: /cakephpsample/
+IP: 118.106.81.53 by 118-106-81-53.dz.commufa.jp
+ua: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+
+[Error404] 2023-08-13 09:41:06 ---------------------------------------------------------
+Uri: /.svn/wc.db
+IP: 3.238.6.51 by ec2-3-238-6-51.compute-1.amazonaws.com
+ua: Mozilla/5.0 (Linux; U; Android 10; zh-Hans-CN; YAL-AL50 Build/HUAWEIYAL-AL50) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/78.0.3904.108 Quark/5.6.6.211 Mobile Safari/537.36
+
+[Error404] 2023-08-13 09:52:24 ---------------------------------------------------------
+Uri: /cakephpsample/
+IP: 118.106.81.53 by 118-106-81-53.dz.commufa.jp
+ua: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+
+[Error404] 2023-08-13 09:55:16 ---------------------------------------------------------
+Uri: /cakephpsample/
+IP: 118.106.81.53 by 118-106-81-53.dz.commufa.jp
+ua: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+
+[Error404] 2023-08-13 09:58:36 ---------------------------------------------------------
+Uri: /cakephpsample/index.php
+IP: 118.106.81.53 by 118-106-81-53.dz.commufa.jp
+ua: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
+
+[Error404] 2023-08-13 10:19:41 ---------------------------------------------------------
+Uri: /.env
+IP: 109.237.98.226
+ua: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+
+[Error404] 2023-08-13 10:41:40 ---------------------------------------------------------
+Uri: /actuator/health
+IP: 198.199.94.8 by apzg-0720f-039.stretchoid.com
+ua: Mozilla/5.0 zgrab/0.x
+
+[Error404] 2023-08-13 12:18:26 ---------------------------------------------------------
+Uri: /boaform/admin/formLogin
+Referer: http://160.251.97.99:80/admin/login.asp
+IP: 5.44.42.25 by MSK-H-1691065659.msk.host
+ua: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:71.0) Gecko/20100101 Firefox/71.0
+method: POST
+
+[Error404] 2023-08-13 14:43:18 ---------------------------------------------------------
+Uri: /.env
+IP: 103.89.89.111
+ua: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36
+
